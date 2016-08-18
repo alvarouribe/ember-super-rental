@@ -1,0 +1,15 @@
+.listing {
+	border-radius: 2px;
+	border: 1px solid brown; 
+	margin: 10px;
+	padding: 10px;
+}
+
+.listing > h2 {
+	text-decoration: underline;
+}
+
+.listing img {
+	border-radius: 10px;
+	border: 2px solid black;
+}
